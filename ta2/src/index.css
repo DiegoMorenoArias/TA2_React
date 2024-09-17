@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: purple;
 }
 
 code {
@@ -26,7 +27,7 @@ code {
   margin: 20px;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
-  background-color: pink;
+  background-color: yellow;
 }
 
 .card:hover {
@@ -35,4 +36,5 @@ code {
 
 .card h2 {
   margin-bottom: 10px;
+  text-decoration: underline;
 }
